@@ -17,9 +17,9 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Afrobuilders - Plateforme des projets innovants d'Afrique",
+  title: 'Afrobuilders - African Innovation Projects Platform',
   description:
-    "Découvrez et explorez les projets innovants développés en Afrique. Une plateforme open-source pour mettre en valeur l'innovation africaine.",
+    'Discover and explore innovative projects developed in Africa. An open-source platform to showcase African innovation.',
 };
 
 export default function RootLayout({
@@ -29,7 +29,7 @@ export default function RootLayout({
 }>) {
   return (
     <html
-      lang="fr"
+      lang="en"
       suppressHydrationWarning
       className={`${inter.variable} ${jetbrainsMono.variable}`}
     >
@@ -45,7 +45,7 @@ export default function RootLayout({
             <main className="flex-1">{children}</main>
           </div>
         </ThemeProvider>
-        {/* Intégration du widget Google Translate de façon compatible Next.js */}
+        {/* Google Translate widget integration compatible with Next.js */}
         <div
           id="google_translate_element"
           className="google_translate_element"
