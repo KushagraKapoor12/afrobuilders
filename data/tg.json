@@ -1,0 +1,91 @@
+{
+    "country": "Togo",
+    "projects": [
+        {
+            "id": "agriconnect",
+            "name": "AgriConnect",
+            "description": "Plateforme de connexion entre agriculteurs et acheteurs pour optimiser la chaîne d'approvisionnement agricole au Togo.",
+            "details": "# AgriConnect\n\n## Description\n\nAgriConnect est une plateforme innovante qui connecte directement les agriculteurs togolais avec les acheteurs locaux et internationaux. Notre mission est de réduire les intermédiaires et d'augmenter les revenus des producteurs.\n\n## Fonctionnalités\n\n- **Marketplace agricole** : Vente directe de produits frais\n- **Prix en temps réel** : Suivi des cours des matières premières\n- **Logistique intégrée** : Gestion du transport et de la livraison\n- **Paiements sécurisés** : Système de paiement mobile intégré\n\n## Impact\n\nDepuis son lancement, AgriConnect a permis à plus de 500 agriculteurs d'augmenter leurs revenus de 40% en moyenne.",
+            "url": "https://agriconnect-tg.com",
+            "logo": "agriconnect.png",
+            "country": "TG",
+            "category": "AgriTech",
+            "tags": [
+                "agriculture",
+                "marketplace",
+                "logistique",
+                "paiements"
+            ],
+            "founder": "Koffi AGBEKO",
+            "organization": "AgriConnect Solutions",
+            "year": 2021,
+            "status": "active",
+            "openSource": false,
+            "repository": null,
+            "contact": "contact@agriconnect-tg.com",
+            "socials": {
+                "twitter": "https://twitter.com/agriconnect_tg",
+                "linkedin": "https://linkedin.com/company/agriconnect-togo"
+            },
+            "downloads": 2500,
+            "demo": "https://youtu.be/agriconnect-demo"
+        },
+        {
+            "id": "edutech-togo",
+            "name": "EduTech Togo",
+            "description": "Application mobile d'apprentissage en langues locales et français pour les enfants togolais.",
+            "details": "# EduTech Togo\n\n## Mission\n\nDémocratiser l'éducation numérique au Togo en proposant des contenus d'apprentissage adaptés aux réalités locales.\n\n## Fonctionnalités\n\n- **Apprentissage multilingue** : Français, Ewé, Kabyè\n- **Contenu interactif** : Jeux éducatifs et quiz\n- **Mode hors-ligne** : Fonctionne sans connexion internet\n- **Suivi parental** : Tableau de bord pour les parents\n\n## Statistiques\n\n- 10,000+ utilisateurs actifs\n- 85% d'amélioration des résultats scolaires\n- Disponible dans 3 langues locales",
+            "url": "https://edutech-togo.org",
+            "logo": "edutech.png",
+            "country": "TG",
+            "category": "EdTech",
+            "tags": [
+                "éducation",
+                "multilingue",
+                "enfants",
+                "hors-ligne"
+            ],
+            "founder": "Aïcha TRAORE",
+            "organization": "EduTech Togo",
+            "year": 2020,
+            "status": "active",
+            "openSource": true,
+            "repository": "https://github.com/edutech-togo/app",
+            "contact": "info@edutech-togo.org",
+            "socials": {
+                "twitter": "https://twitter.com/edutech_togo",
+                "facebook": "https://facebook.com/edutechtogo"
+            },
+            "downloads": 10000,
+            "demo": "https://youtu.be/edutech-demo"
+        },
+        {
+            "id": "healthtracker",
+            "name": "HealthTracker",
+            "description": "Système de suivi médical et de télémédecine pour améliorer l'accès aux soins de santé en zone rurale.",
+            "details": "# HealthTracker\n\n## Problème résolu\n\nL'accès limité aux soins de santé dans les zones rurales du Togo, avec des distances importantes jusqu'aux centres de santé.\n\n## Solution\n\n- **Dossier médical numérique** : Historique complet du patient\n- **Télémédecine** : Consultations à distance avec des médecins\n- **Alertes santé** : Rappels de vaccination et de traitement\n- **Pharmacie virtuelle** : Commande de médicaments en ligne\n\n## Impact\n\n- 60% de réduction des délais de consultation\n- 200+ villages connectés\n- 15,000+ dossiers médicaux créés",
+            "url": "https://healthtracker-tg.com",
+            "logo": "healthtracker.png",
+            "country": "TG",
+            "category": "HealthTech",
+            "tags": [
+                "santé",
+                "télémédecine",
+                "rural",
+                "dossier-médical"
+            ],
+            "founder": "Dr. Komi AGBODJI",
+            "organization": "HealthTech Solutions",
+            "year": 2022,
+            "status": "active",
+            "openSource": false,
+            "repository": null,
+            "contact": "contact@healthtracker-tg.com",
+            "socials": {
+                "linkedin": "https://linkedin.com/company/healthtracker-togo"
+            },
+            "downloads": 3500,
+            "demo": "https://youtu.be/healthtracker-demo"
+        }
+    ]
+}
