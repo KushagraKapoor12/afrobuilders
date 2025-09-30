@@ -1,3 +1,5 @@
+import ghDataStatic from '@/data/gh.json';
+import tgDataStatic from '@/data/tg.json';
 import { CountryData, Project } from '@/types/project';
 import fs from 'fs';
 import path from 'path';
@@ -46,24 +48,24 @@ export async function getAvailableCountries(): Promise<string[]> {
 // Fonctions pour le côté client - données statiques
 export function getAllProjectsStatic(): Project[] {
     // Import des données statiques
-    const tgData = require('../../data/tg.json');
-    const ghData = require('../../data/gh.json');
+    const tgData = tgDataStatic;
+    const ghData = ghDataStatic;
 
     const allProjects: Project[] = [];
 
     // Ajouter les projets du Togo
-    const tgProjects = tgData.projects.map((project: Project) => ({
+    const tgProjects = tgData.projects.map((project: Record<string, unknown>) => ({
         ...project,
         country: tgData.country
     }));
-    allProjects.push(...tgProjects);
+    allProjects.push(...(tgProjects as Project[]));
 
     // Ajouter les projets du Ghana
-    const ghProjects = ghData.projects.map((project: Project) => ({
+    const ghProjects = ghData.projects.map((project: Record<string, unknown>) => ({
         ...project,
         country: ghData.country
     }));
-    allProjects.push(...ghProjects);
+    allProjects.push(...(ghProjects as Project[]));
 
     return allProjects;
 }

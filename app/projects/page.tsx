@@ -20,15 +20,19 @@ export default function ProjectsPage() {
 
   // Get all projects
   const allProjects = useMemo(() => {
-    const tgProjects = tgData.projects.map((project: any) => ({
-      ...project,
-      country: tgData.country,
-    }));
+    const tgProjects = tgData.projects.map(
+      (project: Record<string, unknown>) => ({
+        ...project,
+        country: tgData.country,
+      })
+    );
 
-    const ghProjects = ghData.projects.map((project: any) => ({
-      ...project,
-      country: ghData.country,
-    }));
+    const ghProjects = ghData.projects.map(
+      (project: Record<string, unknown>) => ({
+        ...project,
+        country: ghData.country,
+      })
+    );
 
     return [...tgProjects, ...ghProjects] as Project[];
   }, []);

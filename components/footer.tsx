@@ -17,7 +17,7 @@ export function Footer() {
             <p className="text-muted-foreground mb-4 max-w-md">
               An open-source platform that celebrates and showcases African
               technological innovation. Discover, explore and contribute to the
-              continent's tech ecosystem.
+              continent&apos;s tech ecosystem.
             </p>
             <div className="flex space-x-4">
               <a
