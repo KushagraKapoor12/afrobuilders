@@ -88,7 +88,9 @@ export default function HomePage() {
                   <ArrowRight className="ml-2 h-4 w-4" />
                 </Link>
                 <Link
-                  href="/contribute"
+                  href="https://github.com/Hyver-organization/afrobuilders.git"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="inline-flex items-center px-6 py-3 border border-input bg-background text-foreground rounded-lg hover:bg-muted transition-colors font-medium"
                 >
                   Contribute
