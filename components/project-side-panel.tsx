@@ -118,7 +118,7 @@ export function ProjectSidePanel({
                   <Code className="h-4 w-4 mr-2" />
                   Details
                 </h3>
-                <p className="text-sm text-muted-foreground">
+                <p className="text-sm text-muted-foreground whitespace-pre-line">
                   {project.details}
                 </p>
               </div>
