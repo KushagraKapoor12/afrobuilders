@@ -27,6 +27,28 @@
             },
             "downloads": 0,
             "demo": null
+        },
+        {
+            "id": "prestup",
+            "name": "Prestup",
+            "description": "Le moyen le plus rapide pour trouver le prestataire parfait!",
+            "details": "PrestUp est une application mobile de mise en relation des prestataires de toutes catégories confondues aux potentiels demandeurs de prestations. Notre plateforme offre aux prestataires la possibilité de promouvoir leurs services et d'attirer de nouveaux clients, tout en offrant aux clients un moyen simple, sûr et efficace de trouver des prestataires qualifiés pour leurs projets.",
+            "url": "https://prestup.app/",
+            "logo": "prestup.png",
+            "category": "Jobs",
+            "tags": [
+                "Jobs",
+                "Mission",
+                "Prestataire"
+            ],
+            "founder": "Djibril Maham",
+            "organization": "Csis",
+            "year": 2024,
+            "status": "active",
+            "teamSize": 4,
+            "github": null,
+            "demo": null,
+            "documentation": null
         }
     ]
 }
