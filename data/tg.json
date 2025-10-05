@@ -50,5 +50,28 @@
             "demo": null,
             "documentation": null
         }
+        ,
+        {
+            "id": "Kondjigbale",
+            "name": "Kondjigbalẽ",
+            "description": "Votre santé simplifiée aujourdhui et demain.",
+            "details": "Kondjigbalẽ est une solution de santé numérique , mettant l'accent sur le bien-être des patients. Notre plateforme offre aux médecins les outils nécessaires pour prodiguer des soins exceptionnels, poser des diagnostics précis et intervenir rapidement. Elle permet également aux patients d'accéder facilement à leurs informations médicales, de recevoir des soins personnalisés et de bénéficier d'un suivi attentif. Avec KONDJIGBALẼ, la santé devient plus accessible, pratique et centrée sur le patient.",
+            "url": "https://www.kondjigbale.com/",
+            "logo": "kdg.png",
+            "category": "HealthTech",
+            "tags": [
+                "HealthTech",
+                "Pharmacy",
+                "Doctor"
+            ],
+            "founder": "Yvon Kodam",
+            "organization": "Mdkr Labs",
+            "year": 2019,
+            "status": "active",
+            "teamSize": 10,
+            "github": null,
+            "demo": null,
+            "documentation": "https://documenter.getpostman.com/view/754150/2sAYJ7hKmw"
+        }
     ]
 }
