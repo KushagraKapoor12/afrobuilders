@@ -1,4 +1,26 @@
 {
     "country": "Ghana",
-    "projects": []
+    "projects": [
+        {
+          "id": "aya_data",
+          "name": "Aya Data",
+          "description": "Startup spécialisée dans la collecte, l’annotation et l’exploitation de données pour l’IA, avec des produits axés sur l’agriculture et les langues africaines",
+          "details": "Aya Data est une entreprise basée au Ghana, fondée en 2020, qui conçoit et déploie des solutions d’intelligence artificielle adaptées au contexte africain. Elle se concentre sur la collecte et l’annotation de données, la création de modèles d’IA et le développement de produits intelligents comme:\n\n- AyaGrow : une solution d’agriculture de précision utilisant des images satellites et des données au sol pour aider les agriculteurs à surveiller la santé des cultures, détecter les maladies et optimiser les rendements.\n- AyaSpeech : une plateforme de reconnaissance et de synthèse vocale pour les langues africaines, destinée à améliorer l’inclusion linguistique dans les technologies vocales.",
+          "url": "https://www.ayadata.ai",
+          "logo": "ayadata.png",
+          "category": "Artificial Intelligence",
+          "tags": ["AI", "Machine Learning", "Annotation de Données"],
+          "founder": "Freddie Monk & Ama Larbi-Siaw",
+          "organization": "Aya Data Ltd",
+          "year": 2020,
+          "status": "active",
+          "teamSize": 23,
+          "github": null,
+          "demo": null,
+          "documentation": null
+        }
+    ]
 }
+
+
+ 
