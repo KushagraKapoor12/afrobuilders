@@ -49,8 +49,7 @@
             "github": null,
             "demo": null,
             "documentation": null
-        }
-        ,
+        },
         {
             "id": "Kondjigbale",
             "name": "Kondjigbalẽ",
@@ -64,7 +63,7 @@
                 "Pharmacy",
                 "Doctor"
             ],
-            "founder": "Yvon Kodam",
+            "founder": "Yvon Koudam",
             "organization": "Mdkr Labs",
             "year": 2019,
             "status": "active",
@@ -72,6 +71,29 @@
             "github": null,
             "demo": null,
             "documentation": "https://documenter.getpostman.com/view/754150/2sAYJ7hKmw"
+        },
+        {
+            "id": "Solimi",
+            "name": "Solimi",
+            "description": "Vos inquiétudes financières, notre affaire",
+            "details": "Solimi se distingue par son dynamisme exceptionnel dans ses interactions avec les clients. L'équipe offre un service rapide, réactif et personnalisé, assurant une expérience client de premier ordre. Grâce à une écoute active et une compréhension des besoins de chaque client, Solimi apporte des solutions innovantes et adaptées. Cette approche proactive permet de construire des relations de confiance solides et durables, faisant de l'entreprise un partenaire de choix.",
+            "url": "https://solimi.co/",
+            "logo": "solimi.png",
+            "category": "FinTech",
+            "tags": [
+                "FinTech",
+                "Finance",
+                "Investment"
+            ],
+            "founder": "Martina Gaël Egbidi",
+            "organization": "Solimi",
+            "year": 2024,
+            "status": "active",
+            "teamSize": 10,
+            "github": null,
+            "demo": null,
+            "documentation": null
         }
+
     ]
 }
