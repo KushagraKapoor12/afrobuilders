@@ -12,14 +12,17 @@
     "format:check": "prettier --check ."
   },
   "dependencies": {
+    "autoprefixer": "^10.4.21",
+    "country-emoji": "^1.5.6",
+    "country-list": "^2.4.1",
     "lucide-react": "^0.460.0",
     "next": "15.5.4",
     "next-themes": "^0.4.1",
+    "postcss": "^8.5.6",
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "tailwindcss": "^3.4.17",
-    "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.6"
+    "react-world-flags": "^1.6.0",
+    "tailwindcss": "^3.4.17"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
