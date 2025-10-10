@@ -94,6 +94,31 @@
             "demo": null,
             "documentation": null
         }
+        ,
+        {
+          "id": "MiabeCampus",
+          "name": "MIABE CAMPUS",
+          "description": "L’Université de Lomé sur votre téléphone portable",
+          "details": "MIABE CAMPUS est une application permettant aux étudiants de l'université de Lomé de s'orienter facilement. A part la fonctionnalité d'orientation, MIABE CAMPUS offres d'autres fonctionnalités comme : \n-Les horaires de bus \n-Les menus du restaurant universitaire \n-Les évènements au sein de l'université \n-Les offres et annonces \n-Les informations de l'universités \n-Les scores du championnat universitaire",
+          "url": "https://miabe-campus.com/",
+          "logo": "micampus.png",
+          "category": "EdTech",
+          "tags": [
+            "EdTech",
+            "Campus",
+            "Orientation"
+          ],
+          "founder": "Parfait Toke",
+          "organization": "MIABE CAMPUS",
+          "year": 2022,
+          "status": "active",
+          "teamSize": "6",
+          "github": null,
+          "demo": null,
+          "documentation": null
+        }
+
+
 
     ]
 }
