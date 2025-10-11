@@ -87,14 +87,13 @@
             ],
             "founder": "Martina Gaël Egbidi",
             "organization": "Solimi",
-            "year": 2024,
+            "year": 2022,
             "status": "active",
             "teamSize": 10,
             "github": null,
             "demo": null,
             "documentation": null
-        }
-        ,
+        },
         {
           "id": "MiabeCampus",
           "name": "MIABE CAMPUS",
@@ -116,7 +115,76 @@
           "github": null,
           "demo": null,
           "documentation": null
-        }
+        },
+        {
+          "id": "EdoleAfrica",
+          "name": "Edole Africa",
+          "description": "Construisez vos projets avec des ressources fiables ",
+          "details": "Edole Africa est une entreprise togolaise née d’un constat simple : le secteur du BTP en Afrique souffre d’un déficit d’organisation, de confiance et d’accès à la ressource. Entre entrepreneurs à la recherche d’ouvriers fiables, artisans sous-employés, et matériel souvent immobilisé, l’industrie de la construction Africaine manque d’un pont solide entre l’offre et la demande. Ce pont, nous l’avons construit.",
+          "url": "https://edoleafrica.com/",
+          "logo": "edole.png",
+          "category": "Jobs",
+          "tags": [
+            "Jobs",
+            "Construction",
+            "BTP"
+          ],
+          "founder": "OTOU Kodjo Aid",
+          "organization": "Edole Africa",
+          "year": 2020,
+          "status": "active",
+          "teamSize": "5",
+          "github": null,
+          "demo": null,
+          "documentation": null
+        },
+         {
+          "id": "EdoleAfrica",
+          "name": "Edole Africa",
+          "description": "Construisez vos projets avec des ressources fiables ",
+          "details": "Edole Africa est une entreprise togolaise née d’un constat simple : le secteur du BTP en Afrique souffre d’un déficit d’organisation, de confiance et d’accès à la ressource. Entre entrepreneurs à la recherche d’ouvriers fiables, artisans sous-employés, et matériel souvent immobilisé, l’industrie de la construction Africaine manque d’un pont solide entre l’offre et la demande. Ce pont, nous l’avons construit.",
+          "url": "https://edoleafrica.com/",
+          "logo": "edole.png",
+          "category": "Jobs",
+          "tags": [
+            "Jobs",
+            "Construction",
+            "BTP"
+          ],
+          "founder": "OTOU Kodjo Aid",
+          "organization": "Edole Africa",
+          "year": 2020,
+          "status": "active",
+          "teamSize": "5",
+          "github": null,
+          "demo": null,
+          "documentation": null
+        },
+        {
+  "id": "GozemTogo",
+  "name": "Gozem Togo",
+  "description": "La super app togolaise pour vos déplacements, livraisons et paiements.",
+  "details": "Gozem Togo est la branche togolaise de la super application africaine Gozem, lancée en 2018. Elle offre une gamme complète de services allant du transport à la livraison, en passant par le e-commerce et les paiements mobiles. L’application vise à faciliter le quotidien des Togolais en proposant une solution numérique sûre, rapide et accessible. Sous la direction de Jean-Martial Moulaud (CEO Gozem Togo), Gozem s’est imposée comme un acteur majeur de la mobilité et des services numériques au Togo.",
+  "url": "https://gozem.co/tg/fr/",
+  "logo": "gozem.png",
+  "category": "Mobilité",
+  "tags": [
+    "Transport",
+    "Livraison",
+    "Paiement",
+    "Super App",
+    "Togo"
+  ],
+  "founder": "Jean-Martial Moulaud (CEO)",
+  "organization": "Gozem S.A.",
+  "year": 2018,
+  "status": "active",
+  "teamSize": "200+",
+  "github": null,
+  "demo": null,
+  "documentation": null
+}
+
 
 
 
