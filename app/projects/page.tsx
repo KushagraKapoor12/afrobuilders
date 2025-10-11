@@ -127,8 +127,8 @@ export default function ProjectsPage() {
                 >
                   <option value="">All Countries</option>
                   {availableCountries.map((country) => (
-                    <option key={country} value={country}>
-                      {country.toUpperCase()}
+                    <option key={country} value= {country}>
+                      {country}
                     </option>
                   ))}
                 </select>
