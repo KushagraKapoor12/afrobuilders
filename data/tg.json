@@ -162,7 +162,36 @@
   "github": null,
   "demo": null,
   "documentation": null
+},
+{
+  "id": "SEMOA",
+  "name": "Semoa",
+  "description": "Fintech panafricaine spécialisée dans les paiements et la digitalisation de la relation client.",
+  "details": "Semoa offre des solutions de paiement entrants (CashPay, VMS, etc.), de paiement sortants (Semoa Pro, Dédé) et des services SaaS de digitalisation pour banques, microfinances et entreprises. Elle opère dans plus de 12 pays africains.",
+  "url": "https://semoa-group.com/",
+  "logo": "semoa.png",
+  "category": "Fintech",
+  "tags": [
+    "Paiement",
+    "Fintech",
+    "Digitalisation",
+    "SaaS",
+    "Afrique"
+  ],
+  "founder": "Edem Adjamagbo",
+  "organization": "Semoa Group",
+  "year": 2016,
+  "status": "active",
+  "teamSize": "+50",
+  "github": null,
+  "demo": null,
+  "documentation": "Documentation API disponible sur le site de Semoa."
 }
+
+
+
+
+
 
 
 
