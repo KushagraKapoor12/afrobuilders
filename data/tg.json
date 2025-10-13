@@ -186,6 +186,30 @@
   "github": null,
   "demo": null,
   "documentation": "Documentation API disponible sur le site de Semoa."
+},
+{
+  "id": "Anaxar",
+  "name": "Anaxar",
+  "description": "Entreprise de logistique et de transport de marchandises en Afrique de l’Ouest.",
+  "details": "Anaxar est une société togolaise fondée par Arnold Amouzou et Marc Biégniebe, spécialisée dans la facilitation du transport de marchandises et l’affrètement au Togo, au Burkina Faso, au Niger, au Mali, etc.",
+  "url": "https://www.anaxar.com/",
+  "logo": "anaxar.png",
+  "category": "Logistique / Transport",
+  "tags": [
+    "Transport",
+    "Logistique",
+    "Affrètement",
+    "Afrique de l’Ouest",
+    "Freight"
+  ],
+  "founder": "Arnold Amouzou & Marc Biégniebe",
+  "organization": "Anaxar",
+  "year": 2024,
+  "status": "active",
+  "teamSize": "+10",
+  "github": null,
+  "demo": null,
+  "documentation": null
 }
 
 
