@@ -211,7 +211,32 @@
   "github": null,
   "demo": null,
   "documentation": null
+},
+{
+  "id": "MaonoTogo",
+  "name": "Maono",
+  "description": "Agence digitale togolaise spécialisée dans la transformation numérique des entreprises africaines.",
+  "details": "Maono accompagne les entreprises dans leur transformation numérique en proposant des services de conseil stratégique et de développement de solutions informatiques. L'agence est basée à Lomé, Togo, et est le premier partenaire officiel d'Odoo dans le pays.",
+  "url": "https://maono.co/",
+  "logo": "maono.png",
+  "category": "Agence Digitale",
+  "tags": [
+    "Odoo",
+    "Transformation Numérique",
+    "Conseil Stratégique",
+    "Développement Informatique",
+    "Afrique"
+  ],
+  "founder": "Edem Fiadjoe",
+  "organization": "Maono",
+  "year": 2019,
+  "status": "active",
+  "teamSize": "+10",
+  "github": null,
+  "demo": null,
+  "documentation": null
 }
+
 
 
 
